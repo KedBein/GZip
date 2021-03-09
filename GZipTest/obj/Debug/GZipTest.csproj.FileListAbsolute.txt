@@ -1,0 +1,6 @@
+c:\users\терминатор\documents\visual studio 2017\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
+c:\users\терминатор\documents\visual studio 2017\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+c:\users\терминатор\documents\visual studio 2017\Projects\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+c:\users\терминатор\documents\visual studio 2017\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+c:\users\терминатор\documents\visual studio 2017\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+C:\Users\Терминатор\Documents\visual studio 2017\Projects\GZipTest\GZipTest\obj\Debug\GZipTest.csprojResolveAssemblyReference.cache
